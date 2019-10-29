@@ -2,9 +2,10 @@
 the project which learn graphQL java
 
 
-guidance http 
+guidance url：
 
 https://juejin.im/post/5c886063e51d454ffb104bfd
 
+original url：
 
-https://user-gold-cdn.xitu.io/2019/3/13/16974b878d394435?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
+https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/
